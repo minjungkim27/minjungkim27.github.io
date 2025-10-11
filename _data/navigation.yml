@@ -9,22 +9,10 @@
 
 main:
   - title: "CV"
-    # url: /cv/
+    url: /cv/
 
- - title: "Research"
-   # url: /research/    
+  - title: "Research"
+    url: /research/
 
   - title: "Teaching"
-   # url: /teaching/    
-    
-#  - title: "Portfolio"
-#    url: /portfolio/
-        
-#  - title: "Blog Posts"
-#    url: /year-archive/
-    
-# - title: "CV"
-#   url: /cv-json/
-    
-# - title: "Guide"
-#  url: /markdown/
+    url: /teaching/
