@@ -26,21 +26,21 @@ author:
   avatar           : "profile_300x300.jpg"
   name             : "Min-Jung Kim"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Ph.D. Candidate in Economics"
   location         : "Honolulu, HI"
   employer         : "University of Hawaiʻi at Mānoa"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "min24@hawaii.edu" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # URL
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : min-jung-kim-494b12333
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -71,7 +71,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "_thisisminjung"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
