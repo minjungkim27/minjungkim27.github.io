@@ -9,16 +9,13 @@
 
 main:
   - title: "CV"
-    url: /cv/
-    
- # - title: "Publications"
- #   url: /publications/
+    # url: /cv/
 
  - title: "Research"
-  url: /Research/    
+   # url: /research/    
 
   - title: "Teaching"
-    url: /teaching/    
+   # url: /teaching/    
     
 #  - title: "Portfolio"
 #    url: /portfolio/
@@ -26,9 +23,8 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
+# - title: "CV"
+#   url: /cv-json/
     
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  #- title: "Guide"
-  #  url: /markdown/
+# - title: "Guide"
+#  url: /markdown/
