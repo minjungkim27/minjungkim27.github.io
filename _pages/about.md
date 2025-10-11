@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "Welcome"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm Min-Jung Kim, a Ph.D. candidate in Economics at the University of Hawaiʻi at Mānoa, and I also work as a research assistant on the OD2A-S (Overdose Data to Action – Surveillance) team.
-
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Welcome! I am a PhD Candidate in Economics at the University of Hawaiʻi at Mānoa.
+My research lies in applied microeconomics, with a particular focus on education and health economics. 
+I analyze how family structure and intra-household dynamics influence individual outcomes over the life cycle, with an emphasis on early-life environments and their effects on long-term educational and health outcomes.
 
 A data-driven personal website
 ======
