@@ -13,4 +13,4 @@ My research lies in applied microeconomics, with a particular focus on labor, he
 
 I analyze how family structure and intra-household dynamics influence individual outcomes over the life cycle, with an emphasis on early-life environments and their effects on long-term health and educational outcomes.
 
-I will be on the 2025-26 job market.
+I am on the 2025-26 job market.
